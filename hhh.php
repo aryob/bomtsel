@@ -1,7 +1,6 @@
 <?php
 
 echo "BomSms Telkomsel\n";
-echo "Author : Aryo\n";
 echo "Contoh 0821*********\n";
 echo "Phone: ";
 $no = trim(fgets(STDIN));
